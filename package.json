@@ -1,0 +1,16 @@
+{
+  "name": "array-of-sunshine",
+  "version": "1.0.0",
+  "description": "Array exercises",
+  "main": "index.js",
+  "scripts": {
+    "test":  "mocha --bail         tests/01-forEach.js tests/02-map.js tests/03-reduce.js tests/04-filter.js tests/05-find.js tests/06-findIndex.js tests/07-some.js tests/08-every.js",
+    "watch": "mocha --bail --watch tests/01-forEach.js tests/02-map.js tests/03-reduce.js tests/04-filter.js tests/05-find.js tests/06-findIndex.js tests/07-some.js tests/08-every.js"
+  },
+  "keywords": ["array", "exercise"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
