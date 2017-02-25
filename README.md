@@ -20,7 +20,7 @@ $ npm test
 
 **3. Open `your-code.js`**
 
-Make the tests pass. You're done when they're all passing.
+Make the tests pass. You're done when they all pass.
 
 It's helpful to look at the test files while you work. They're in `tests/`.
 
