@@ -4,7 +4,7 @@ JavaScript array exercises
 
 ## Usage
 
-1. Set up the repo locally
+*1. Set up the repo locally*
 
 ```
 $ git clone git@github.com:psalaets/array-of-sunshine.git
@@ -12,14 +12,15 @@ $ cd array-of-sunshine
 $ npm install
 ```
 
-2. Run the tests
+*2. Run the tests*
 
 ```
 $ npm test
 ```
 
-3. Open `your-code.js` in an editor and make the tests pass until they're all
-passing.
+*3. Open `your-code.js`*
+
+Make the tests pass. You're done when they're all passing.
 
 ### watch mode
 
