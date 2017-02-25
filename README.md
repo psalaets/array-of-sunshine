@@ -22,6 +22,8 @@ $ npm test
 
 Make the tests pass. You're done when they're all passing.
 
+It's helpful to look at the test files while you work. They're in `tests/`.
+
 ### watch mode
 
 Instead of manually running tests over and over, they run automatically if you
