@@ -7,7 +7,7 @@ JavaScript array exercises
 **1. Set up the repo locally**
 
 ```
-$ git clone git@github.com:psalaets/array-of-sunshine.git
+$ git clone https://github.com/psalaets/array-of-sunshine.git
 $ cd array-of-sunshine
 $ npm install
 ```
