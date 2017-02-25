@@ -2,10 +2,6 @@
 
 JavaScript array exercises
 
-## Install
-
-`npm install array-of-sunshine`
-
 ## Usage
 
 1. Set up the repo locally
